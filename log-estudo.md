@@ -1,16 +1,10 @@
-Este arquivo serve como um registro para meu aprendizado:
-- Na linguagem Rust.
-- No Git e GitHub.
-- No Terminal do Linux, através do aprendizado dos comandos de manipulação de arquivos e diretórios.
-- Em conhecimentos diversos que podem ser significativos para algum objetivo.
-
 Em cada dia estudado, registro essas informações como:
 - Uma forma de observar minha linha de conhecimento e disciplina.
 - Observar as dificuldades, aperfeiçoamento e tarefas restantes.
 
 Registrarei minhas fontes de obtenção de dados:
-- Neste arquivo (Logs_Estudo), como uma forma simples de registrar de onde veio o conhecimento do dia.
-- No arquivo (Fonte_Estudo), para registrar de forma "bruta" essas informações.
+- Neste arquivo, como uma forma rápida de completar boas informações em um só lugar ;)
+- No arquivo (fonte-estudo), para registrar de forma "bruta" essas informações.
 
 Cada dia sera registrado (geralmente), com:
 - Dia/Mês/Ano.
@@ -21,23 +15,7 @@ Cada dia sera registrado (geralmente), com:
 - Comparação com a Linguagem C (Tenho conhecimento em C intermediário).
 - Próximo passo: para o dia seguinte.
 
-Porque esse projeto existe?:
-- Tomei a vontade de entrar (é obrigatório para qualquer um kkkk)
-no mundo fora do "Apenas Código".
-- Eu consigo registrar meus avanços, erros, dificuldades.
-Sempre fui um rapaz que gostou de registrar algo.
-- Esse projeto serve como um hobby.
-Onde poderei me entregar a este hobby, sabendo que trará bons retornos para mim.
-- SINCERO: É bom criar algo de longo prazo,
-as pessoas confiam mais em alguém que tem disciplina do longo prazo.
-
 Como ler:
-- Sugiro que, do arquivo mais antigo para o mais recente.
-Pois poderá "me conhecer por inteiro" kkkkk ;)
-- OU, já na recente, onde poderá de forma mais rápida: saber em qual meu nível de conhecimento está.
-
-Agradeço imensamente a quem leu até aqui.
-É um projeto que realmente me dedico, tentando botar a mão na massa o máximo possivel,
-que no caso é sem IA.
-Mas, em cada fim de estudo onde registro "teclando", eu jogo para a IA consertar meus erros na escrita e com uma possivel organização.
-Obrigado, unpurge.
+- Sugiro que, do arquivo mais antigo para o mais recente, pois poderá "me conhecer por inteiro" kkkkk ;)
+- Ou, já na recente, onde poderá de forma mais rápida: saber em qual meu nível de conhecimento está.
+-
