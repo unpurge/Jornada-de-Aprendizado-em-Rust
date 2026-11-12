@@ -1,5 +1,3 @@
-# Jornada de Aprendizado em Rust
-
 Repositório onde registro meu aprendizado de Rust, do zero. Código, notas e erros pelo caminho.
 
 ## Por que estudarei Rust

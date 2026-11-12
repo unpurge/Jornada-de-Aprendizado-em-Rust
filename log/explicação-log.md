@@ -18,4 +18,3 @@ Cada dia sera registrado (geralmente), com:
 Como ler:
 - Sugiro que, do arquivo mais antigo para o mais recente, pois poderá "me conhecer por inteiro" kkkkk ;)
 - Ou, já na recente, onde poderá de forma mais rápida: saber em qual meu nível de conhecimento está.
--
