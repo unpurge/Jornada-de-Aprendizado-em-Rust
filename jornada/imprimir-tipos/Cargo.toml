@@ -1,0 +1,8 @@
+[package]
+name = "Imprimir-Tipos"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "Imprimir-Tipos"
+path = "código.rs"
