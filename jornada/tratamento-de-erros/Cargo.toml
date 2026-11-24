@@ -1,0 +1,8 @@
+[package]
+name = "tratamento-de-erros"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "tratamento-de-erros"
+path = "código.rs"
