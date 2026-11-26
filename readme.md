@@ -4,7 +4,7 @@ Repositório onde registro meu aprendizado de Rust, do zero. Código, notas e er
 
 Sou obcecado em poder ter maior Performance e Desempenho, em tudo que for possível.
 O Rust me ajuda de uma forma gigantesca nisso, e ainda: aumentando muito a segurança da aplicação.
-+ Performance. + Segurança. + Lucro para a empresa.
+ + Performance. + Segurança. + Lucro para a empresa.
 Fora que consigo integrar com banco de dados, SO, webassembly e muito mais.
 Me sinto animado com o Rust. ;)
 
@@ -14,11 +14,11 @@ Me sinto animado com o Rust. ;)
 - Início: 12/11/2026
 
 ## Como o repo está organizado
-- jornada : Funções de Rust -> projetos feitos, o código e a explicação detalhada sobre esse código.
-- log-estudo.md : diário, um arquivo por dia.
-- notas.md : conceitos explicados com minhas palavras.
-- fonte-estudo.md : o que estou usando para estudar.
+- jornada : Estudo de cada sintaxe do Rust, dividido por tópicos -> projetos feitos, o código e a explicação detalhada sobre esse código.
+- registro-diário-de-estudo : Log diário sobre oque é feito no Projeto e estudado no dia, um arquivo por dia.
 - roadmap.md : trilha e progresso.
+- license.md : Licensa MIT deste projeto.
+- sugestão : ouvidoria para sugestões de melhoria, problemas/erros e dúvidas sobre o Projeto.
 
 /// COLOCAR COMO USAR UM EXERCICIO OU PROGRAMA.
 
